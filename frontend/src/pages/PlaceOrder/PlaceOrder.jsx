@@ -68,7 +68,7 @@ const PlaceOrder = () => {
         <p className="title">Delivery Information</p>
         <div className="multi-fields">
           <input
-            required
+          
             name="firstName"
             onChange={onChangeHandler}
             value={data.firstName}

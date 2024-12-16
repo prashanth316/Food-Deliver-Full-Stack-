@@ -1,0 +1,7 @@
+Unknown command: "startPS"
+
+
+Did you mean this?
+  npm start # Start a package
+To see a list of supported npm commands, run:
+  npm help
